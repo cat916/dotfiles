@@ -1,0 +1,6 @@
+2024/01/30-10:02:13.094 b3b Reusing MANIFEST /home/thuy/.config/microsoft-edge-dev/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/01/30-10:02:13.094 b3b Recovering log #7
+2024/01/30-10:02:13.094 b3b Reusing old log /home/thuy/.config/microsoft-edge-dev/Default/EdgeCoupons/coupons_data.db/000007.log 
+2024/01/30-10:02:14.180 b3b Level-0 table #11: started
+2024/01/30-10:02:14.197 b3b Level-0 table #11: 773612 bytes OK
+2024/01/30-10:02:14.201 b3b Delete type=0 #7

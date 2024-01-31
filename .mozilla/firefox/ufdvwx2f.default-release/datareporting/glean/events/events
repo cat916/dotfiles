@@ -1,0 +1,8 @@
+{"timestamp":1406133,"category":"serp","name":"impression","extra":{"impression_id":"54df4959-5d2c-4be1-85e8-efac08960d6f","tagged":"true","partner_code":"firefox-b-d","is_private":"false","shopping_tab_displayed":"false","is_shopping_page":"false","provider":"google","source":"urlbar"}}
+{"timestamp":1415842,"category":"serp","name":"engagement","extra":{"target":"non_ads_link","impression_id":"54df4959-5d2c-4be1-85e8-efac08960d6f","action":"clicked"}}
+{"timestamp":1446984,"category":"serp","name":"engagement","extra":{"target":"incontent_searchbox","action":"clicked","impression_id":"54df4959-5d2c-4be1-85e8-efac08960d6f"}}
+{"timestamp":1447126,"category":"serp","name":"engagement","extra":{"impression_id":"54df4959-5d2c-4be1-85e8-efac08960d6f","target":"incontent_searchbox","action":"clicked"}}
+{"timestamp":1447539,"category":"serp","name":"engagement","extra":{"impression_id":"54df4959-5d2c-4be1-85e8-efac08960d6f","action":"clicked","target":"incontent_searchbox"}}
+{"timestamp":1447952,"category":"serp","name":"engagement","extra":{"action":"clicked","target":"incontent_searchbox","impression_id":"54df4959-5d2c-4be1-85e8-efac08960d6f"}}
+{"timestamp":1448132,"category":"serp","name":"engagement","extra":{"action":"clicked","impression_id":"54df4959-5d2c-4be1-85e8-efac08960d6f","target":"incontent_searchbox"}}
+{"timestamp":1448327,"category":"serp","name":"engagement","extra":{"action":"clicked","impression_id":"54df4959-5d2c-4be1-85e8-efac08960d6f","target":"incontent_searchbox"}}

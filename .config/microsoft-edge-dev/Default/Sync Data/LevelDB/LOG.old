@@ -1,0 +1,15 @@
+2024/01/30-10:02:09.915 b39 Reusing MANIFEST /home/thuy/.config/microsoft-edge-dev/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/01/30-10:02:09.915 b39 Recovering log #3
+2024/01/30-10:02:09.917 b39 Reusing old log /home/thuy/.config/microsoft-edge-dev/Default/Sync Data/LevelDB/000003.log 
+2024/01/30-10:02:38.408 b3a Level-0 table #5: started
+2024/01/30-10:02:38.424 b3a Level-0 table #5: 178161 bytes OK
+2024/01/30-10:02:38.428 b3a Delete type=0 #3
+2024/01/30-10:03:36.531 b3a Level-0 table #7: started
+2024/01/30-10:03:36.547 b3a Level-0 table #7: 177610 bytes OK
+2024/01/30-10:03:36.551 b3a Delete type=0 #4
+2024/01/30-10:06:46.444 b3a Level-0 table #9: started
+2024/01/30-10:06:46.461 b3a Level-0 table #9: 169853 bytes OK
+2024/01/30-10:06:46.466 b3a Delete type=0 #6
+2024/01/30-10:10:40.499 b3a Level-0 table #11: started
+2024/01/30-10:10:40.515 b3a Level-0 table #11: 172727 bytes OK
+2024/01/30-10:10:40.519 b3a Delete type=0 #8

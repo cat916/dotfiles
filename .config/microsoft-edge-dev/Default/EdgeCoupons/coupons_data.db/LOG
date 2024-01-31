@@ -1,0 +1,6 @@
+2024/01/30-13:25:49.031 6b9e Reusing MANIFEST /home/thuy/.config/microsoft-edge-dev/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/01/30-13:25:49.031 6b9e Recovering log #10
+2024/01/30-13:25:49.031 6b9e Reusing old log /home/thuy/.config/microsoft-edge-dev/Default/EdgeCoupons/coupons_data.db/000010.log 
+2024/01/30-13:25:50.421 6b9f Level-0 table #14: started
+2024/01/30-13:25:50.438 6b9f Level-0 table #14: 773612 bytes OK
+2024/01/30-13:25:50.442 6b9f Delete type=0 #10
